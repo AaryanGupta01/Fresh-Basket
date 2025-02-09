@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title>Banana</title>
+</head>
+<body>
+<center><img src="Designer3.png" width=1510 ></center>
+<h1>
+<style>
+	
+	h1 {
+	position:absolute; 
+	top:150px;
+	right:300px;
+	}
+
+	h3 {
+	position:absolute; 
+	top:240px;
+	right:558px;
+	}
+
+</style>
+Fresho! Banana - Robusta, 1 kg
+</h1>
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\banana.jpeg" border=2 height=500 style="position:absolute; top:50px; right:1000px;">
+
+<h3>
+
+MRP:<s>₹65.75</s><br><br>
+<b> Price: ₹48 </b>
+(₹48 / kg)<br><br>
+<font color="#5e9400">You Save:27% OFF</font><br><br>
+(inclusive of all taxes)
+
+</h3>
+
+
+<button style="position:fixed; 
+	top:260px;
+	right:220px; 
+	padding: 5px; width: 259px;"> 250g </button>
+
+<button style="position:fixed; 
+	top:300px;
+	right:220px; 
+	padding: 5px; width: 259px;"> 500g </button>
+
+<button style="position:fixed; 
+	top:340px;
+	right:220px; 
+	padding: 5px; width: 259px;"> 5kg </button>
+
+</body>
+</html>
