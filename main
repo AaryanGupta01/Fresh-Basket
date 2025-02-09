@@ -1,0 +1,100 @@
+<html>
+
+<head>
+	<title>Online Grocery Shopping</title>
+	<link rel="icon" type="image/jpg" href="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\basket.jpeg">
+</head>
+
+<body background="Designer4.png">
+
+
+<table align="center">
+<tr bgcolor="yellow">
+<td>
+<center><h1> <font color="red">Fresh</font> Basket</h1></center>
+
+<font align="center"><h2>Search for Products...</h2></font>
+<div align="center">
+
+
+<form action="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\bhindi.html" method="post">
+
+make a button with link in it so when you write name and click on the button it takes you to the page
+
+<input type="text" name="search"  placeholder="Search..." title="Search for Products..." 
+size=100 style ="height:40px;">
+<button type="submit">SUBMIT</button>
+<input type="reset" value="RESET" style="height:40px; background-color:#39FF14;">
+</form>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
+<br>
+<marquee scrollamount=23>
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\dove.jpeg" width=950 ></img>
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\domex.jpeg" width=950 ></img>
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\surf.jpeg" width=950 ></img>
+</marquee>
+<br>
+<br>
+<font align="center" color="blue"><h2>My Smart Basket</h2></font>
+<table border=5 align="center">
+<tr>
+<td width=100 height=300>
+ 
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\banana.jpeg" width=200 >
+<font align="center" size= 5>
+<h3>  
+<a href="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\banana.html"> ₹48/dozen  </a> 
+</h3>
+</font>
+</img>
+
+</td>
+
+<td>
+ 
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\capsicum.jpeg" width=200>
+<font align="center" size= 5>
+<h3>
+<a href="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\capsicum.html"> ₹82/kg </a>
+</h3>
+</font>
+</img>
+
+</td>
+
+<td>
+<div> 
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\lemon.jpeg" width=200 >
+<font align="center" size= 5>
+<h3>
+<a href="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\lemon.html">₹207/kg </a>
+</h3>
+</font>
+</img>
+</div>
+</td>
+
+<td>
+<div> 
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\bhindi.jpeg" width=200 >
+<font align="center" size= 5>
+<h3>
+<a href="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\bhindi.html">₹29kg</a>
+</h3>
+</font>
+</img>
+</div>
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
