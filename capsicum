@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>Capsicum</title>
+</head>
+<body>
+<center><img src="Designer3.png" width=1510 ></center>
+<h1>
+<style>
+	
+	h1 {
+	position:absolute; 
+	top:150px;
+	right:208px;
+	}
+
+	h3 {
+	position:absolute; 
+	top:240px;
+	right:558px;
+	}
+
+</style>
+Fresho! Capsicum - Green (Loose), 1 kg
+</h1>
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\capsicum.jpeg" border=2 height=500 style="position:absolute; top:50px; right:1000px;">
+
+<h3>
+
+MRP:<s>₹124.66</s><br><br>
+<b> Price: ₹87.5 </b> (₹87.5 / kg)<br><br>
+<font color="#5e9400">You Save:30% OFF </font><br><br>
+(inclusive of all taxes)
+
+</h3>
+
+
+</body>
+</html>
