@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>Lemon</title>
+</head>
+<body>
+<center><img src="Designer3.png" width=1510 ></center>
+<h1>
+<style>
+	
+	h1 {
+	position:absolute; 
+	top:150px;
+	right:350px;
+	}
+
+	h3 {
+	position:absolute; 
+	top:240px;
+	right:558px;
+	}
+
+</style>
+Fresho! Lemon (Loose), 1 kg
+</h1>
+<img src="C:\Users\Aaryan Gupta\OneDrive\Desktop\Fresh basket\lemon.jpeg" border=2 height=500 style="position:absolute; top:50px; right:1000px;">
+
+<h3>
+
+MRP:<s>₹283.56</s><br><br>
+<b> Price: ₹207 </b> (₹207 / kg)<br><br>
+<font color="#5e9400">You Save:27% OFF </font><br><br>
+(inclusive of all taxes)
+
+</h3>
+
+
+</body>
+</html>
